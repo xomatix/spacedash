@@ -1,0 +1,3 @@
+server który się zrestartuje i obsłuży klientów
+klienta w cs który odbierze i wyśle dane
+konwersja na obiekt 
